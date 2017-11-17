@@ -1,0 +1,14 @@
+tr:nth-child(even) {background: #CCC}
+tr:nth-child(odd) {background: #FFF}
+tbody td{
+	padding: 5px;
+}
+table, p{
+	margin-left: 20px;
+}
+h1, h3{
+	margin-left:20px;
+}
+.top{
+	margin-top: 20px;
+}
